@@ -38,4 +38,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amirali-projects&show_icons=true&locale=en" alt="amirali-projects" /></p>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirali-projects" alt="GitHub Streak Stats for Amir Ali" />
