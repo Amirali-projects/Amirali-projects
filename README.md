@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirali-projects&label=Profile%20views&color=0e75b6&style=flat" alt="amirali-projects" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I have learned **MERN stack** and currently exploring DevOps.
 
 - I have recently Completed a Project [HomeHub](https://homehub-platform-git-main-amirali-projects-projects.vercel.app/listings)
 
